@@ -1,8 +1,8 @@
 # Redução dos Custos em Farmácias com AWS
 
-**Data de Início:** [DATA DE INICIO DO PROJETO]  
+**Data de Início:** 30/07/2025
 **Empresa:** Abstergo Industries  
-**Responsável:** Nome Evangelista
+**Responsável:** Mário Evangelista
 
 ## Introdução
 
